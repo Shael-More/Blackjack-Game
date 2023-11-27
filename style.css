@@ -1,0 +1,36 @@
+body {
+    background-image: url("/greenbackaground.jpg");
+    background-position: center;
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    color: #FFF;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    height: 100vh;
+}
+
+h1 {
+    color: rgb(255, 210, 31);
+    font-size: 4rem;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    color: #016f32;
+    width: 180px;
+    background-color: goldenrod;
+    font-weight: bold;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 3px;
+    margin-bottom: 4px;
+}
